@@ -1,6 +1,6 @@
 # RoutePulse: Scalable Transportation Analytics Pipeline
 
-End-to-end big data analytics system processing 3.5M+ NYC Yellow Taxi trips using Hadoop, Spark, and distributed machine learning.
+Distributed big data pipeline analyzing 3.5M+ NYC taxi trips using Hadoop, Spark, and ML for payment-type prediction.
 
 ## 🎯 Results
 
